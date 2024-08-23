@@ -12,8 +12,7 @@ page_bg_img = f"""
 
 <style>
 [data-testid="stAppViewContainer"] > .main {{
-background-image :url("data:
-tech bg.jpg;base64,{img}");
+background-image :url("data:tech bg.jpg;base64,{img}");
 background-size : cover;
 }}
 [data-testid="stHeader"]{{
